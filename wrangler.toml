@@ -1,0 +1,2 @@
+name = "site-status"
+compatibility_flags = ["nodejs_compat"]
