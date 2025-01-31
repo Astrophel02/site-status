@@ -1,4 +1,4 @@
-# wrangler.toml
 name = "site-status"
+compatibility_date = "2024-01-30"  # 使用当前日期或最新兼容日期
 compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = "dist"  # 根据实际构建输出目录调整（如 .output/public、build 等）
+pages_build_output_dir = "dist"  # 根据实际构建输出目录调整
